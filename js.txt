@@ -1,0 +1,75 @@
+js
+
+js was developed at netscape in 10 days alonge with a js engine(spidermonkey) which convert js to machine code for browers.
+
+
+previously used for only on web site to make interactive pages thats why it was named a toy language 
+
+not any more 
+
+it can do a lot of thing now other then interaction😁
+
+
+js runs on a browser using a engine like v8 
+.'. inspect web page and start writing js
+	console.log("hello world")
+
+we can also run js on stand alone system or server using node js 
+node js is a runtime environment for js
+
+
+intrestingly number + string = string
+5+'5'
+'55'
+but number - string = number 
+5-'5'
+0
+😂😂😂
+
+
+and play with dialoge boxes like alert prompt confirm
+
+	window.alert("dfsdg")
+	or
+	alert
+
+
+
+
+vscode
+
+1. in html file 
+	type ! then tab/enter to generate a basic html 	boilerplate code.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
