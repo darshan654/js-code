@@ -68,6 +68,8 @@ vscode
 3. sepration of cencerns
 	html & JS in different files
 	as Intellij IDEA keybindiing ext is on use 
+
+	Intellij
 	alt + insert insted of ctrl+n to create a new file
 	shift+alt+f to correct formate in vscode
 
@@ -88,7 +90,7 @@ vscode
 		const interestRate = 8.6
 		//can't be change
 
-6. js is a dynamic type language
+6. js is a dynamically type language
 	means unlike in static t. l. a variable type can be changed during runtime
 
 	
