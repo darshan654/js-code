@@ -1,4 +1,7 @@
-js
+js by https://www.youtube.com/watch?v=W6NZfCO5SIk
+
+html = content 
+js=behavior
 
 js was developed at netscape in 10 days alonge with a js engine(spidermonkey) which convert js to machine code for browers.
 
@@ -11,8 +14,11 @@ it can do a lot of thing now other then interaction😁
 
 
 js runs on a browser using a engine like v8 
-.'. inspect web page and start writing js
-	console.log("hello world")
+.'. inspect web page and start writing js on console section
+		or 
+		use shortcut
+			alt+ctrl+i
+	>>console.log("hello world")
 
 we can also run js on stand alone system or server using node js 
 node js is a runtime environment for js
@@ -40,6 +46,30 @@ vscode
 
 1. in html file 
 	type ! then tab/enter to generate a basic html 	boilerplate code.
+
+1.1 add live server extension which will allow to run html from vscode
+	right click on file in working area(explorer)-> open with live sserver
+	ad=> no need to refersh the page
+	shortcut alt+l alt+o
+
+2.add script tag in head or body
+	best practice is to add script tag at end of body 
+	//as the engine will work after the html page is rendered 
+	.'. good UE ->fast
+
+	<script>
+		console.log('hello');
+		interacting with console 
+		log=print
+		end with ; as java
+	</script> 
+
+3. sepration of cencerns
+	html & JS in different files
+	as Intellij IDEA keybindiing ext is on use 
+	alt + insert insted of ctrl+n to create a new file
+	shift+alt+f to correct formate in vscode
+	
 
 
 
