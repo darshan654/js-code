@@ -17,7 +17,8 @@ js runs on a browser using a engine like v8
 .'. inspect web page and start writing js on console section
 		or 
 		use shortcut
-			alt+ctrl+i
+			right side 
+			ctrl+shift+j
 	>>console.log("hello world")
 
 we can also run js on stand alone system or server using node js 
@@ -69,6 +70,30 @@ vscode
 	as Intellij IDEA keybindiing ext is on use 
 	alt + insert insted of ctrl+n to create a new file
 	shift+alt+f to correct formate in vscode
+
+4.
+	can directly run .js file on system using node 
+		in cmd or powershell write 
+		>>node first.js
+		
+5. variables / identifyers
+
+		before ES6 var was used //have some complications
+		.'. we use let and const now a days more 
+		# camel Notation
+			firstName 🐪
+		let lastName= 'xyz';
+		console.log(lastName);
+
+		const interestRate = 8.6
+		//can't be change
+
+6. js is a dynamic type language
+	means unlike in static t. l. a variable type can be changed during runtime
+
+	
+
+
 	
 
 
