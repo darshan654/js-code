@@ -45,6 +45,13 @@ and play with dialoge boxes like alert prompt confirm
 
 vscode
 
+@as Intellij IDEA keybindiing ext is on use 
+
+	•alt + insert insted of ctrl+n to create a new file
+	•shift+alt+f to correct formate in vscode
+	•shift+esc to open/close terminal 
+	•alt+1 to open/close Explorer tab
+
 1. in html file 
 	type ! then tab/enter to generate a basic html 	boilerplate code.
 
@@ -60,24 +67,24 @@ vscode
 
 	<script>
 		console.log('hello');
-		interacting with console 
-		log=print
-		end with ; as java
+		//interacting with console 
+		//log=print
+		//end with ; as java
 	</script> 
+
+	REFER index.html
 
 3. sepration of cencerns
 	html & JS in different files
-	as Intellij IDEA keybindiing ext is on use 
-
-	Intellij
-	alt + insert insted of ctrl+n to create a new file
-	shift+alt+f to correct formate in vscode
+	as done in first.js file
 
 4.
 	can directly run .js file on system using node 
 		in cmd or powershell write 
 		>>node first.js
 		
+		REFER first.js
+
 5. variables / identifyers
 
 		before ES6 var was used //have some complications
@@ -90,8 +97,46 @@ vscode
 		const interestRate = 8.6
 		//can't be change
 
+		REFER literals type try.js
+
+
 6. js is a dynamically type language
 	means unlike in static t. l. a variable type can be changed during runtime
+
+	REFER Dynamic_type_ln.js
+
+7.			variable type
+				/\
+			   /  \
+			  /    \
+	  primetive    reference 
+
+	REFER img (primetive_or_value _type.png)
+	REFER img (reference_type.png)
+
+7.1
+	in primitive/ value type we have REFER (data_types_or_literal_type.png)
+	•string 
+	•number 
+	•boolean
+	•undefined which is a value as well as a type
+	•null is value and a obj type variable REFER(null_is_obj_type.png)
+
+	REFER literals_type.js
+
+
+7.2 reference type are 
+	•objects
+	•arrays
+	•functions
+
+	REFER (reference_type.png)
+
+8. Objects
+	as Class in java we have object in js 
+
+REFER 
+
 
 	
 

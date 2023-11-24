@@ -17,3 +17,4 @@ console.log(num,num);
 // let ans = readLine(prompt);
 // console.clear();
 console.log(typeof(num));
+console.log(typeof(nl));
