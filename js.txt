@@ -135,7 +135,12 @@ vscode
 8. Objects
 	as Class in java we have object in js 
 
-REFER 
+	REFER Object.js
+
+9.arrays
+	same as java i.e a collection of  literals
+
+	REFER Array.js
 
 
 	
